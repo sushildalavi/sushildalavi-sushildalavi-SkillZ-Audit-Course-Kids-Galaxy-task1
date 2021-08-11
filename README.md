@@ -1,2 +1,4 @@
 # sushildalavi-sushildalavi-SkillZ-Audit-Course-Kids-Galaxy-task1
 This is a 3 page website made by using html and css about an online learning platform.
+SkillZ is an online learning website where people from any profession who are eager to enter the world of programming can fulfill their dreams . The whole intention of this project is being able to create a website that offers online learning courses for people from all walks of life to enjoy the world of programming. This is a part of an Audit Course named “Industry Ready Web Developer” in which I have used Basic HTML and CSS to create a raw layout of the website and futher improvisations are needed to make it more dynamic and ready to use which will be done as we approach futher levels. Below attached are the screenshots of the work done till now.
+All the screenshots related to the webpage are attached in the given repository.
